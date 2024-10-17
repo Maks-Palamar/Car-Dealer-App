@@ -66,5 +66,6 @@ npm run build
 This command will bundle the application into static files for production in the build directory.
 You can then serve the contents of this directory using any static file server.
 
+### Also you can use the link to deployed public page on vercel to run the application
 
-
+car-dealer-app-five.vercel.app
